@@ -54,7 +54,7 @@ widgets:
 # Widget behavior
 # ===============
 archive_type: 'monthly'
-show_count: false
+show_count: true
 # How many posts display in Home page.
 recent_posts_limits: 5
 
