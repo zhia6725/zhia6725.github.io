@@ -23,7 +23,7 @@ links:
 # Content
 # ===============
 # "Read More" link at the bottom of excerpted articles. `false` to hide the link.
-excerpt_link: 查看更多
+excerpt_link: Read More
 # Enable fancybox
 fancybox: true
 
